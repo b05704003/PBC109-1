@@ -4,6 +4,4 @@ class Food:
 		self.calorie = calorie
 
 
-
-
 print("I want to have late night supper!")
