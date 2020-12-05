@@ -1,5 +1,5 @@
 class Food:
-	def __init__(self, price, calorie):
+	def __init__(self, price, calorie, sdfs):
 		self.price = price
 		self.calorie = calorie
 
